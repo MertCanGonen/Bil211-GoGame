@@ -1,1 +1,1 @@
-# Bil211-GoGame
+# Go Game
